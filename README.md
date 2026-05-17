@@ -115,6 +115,16 @@ TodoApp/
 
 ---
 
+# Live Demo
+
+I deployed the application using GitHub pages. 
+
+You can view the live project here: 
+
+[Live Demo] (https://lichi-fave.github.io/TypeScript-Todo-List-App/)
+
+---
+
 # How To Run The Project
 
 ## Step 1
